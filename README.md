@@ -7,7 +7,6 @@
 <p align= "center">
   <img src="https://komarev.com/ghpvc/?username=kornineq">
   <br>
-  <img src="https://img.shields.io/badge/kornineq?style=flat&logo=Discord&logoColor=white">
 </p>
 
 -----
