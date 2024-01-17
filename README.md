@@ -7,7 +7,6 @@
 <p align= "center">
   <img src="https://komarev.com/ghpvc/?username=kornineq">
   <br>
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C1OIIJN)
 </p>
 
 -----
